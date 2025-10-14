@@ -6,7 +6,6 @@ Use a `set` to add unique elements and compare if the element you're trying to a
 
 ```python
 class Solution:
-
     def hasDuplicate(self, nums: List[int]) -> bool:
         numSet = set()
         for num in nums:
