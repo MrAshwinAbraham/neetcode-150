@@ -2,6 +2,7 @@
 
 Given an integer array `nums`, return `true` if any value appears **more than once** in the array, otherwise return `false`.
 
+#### Approach
 Use a `set` to add unique elements and compare if the element you're trying to add is already present.
 
 ```python
