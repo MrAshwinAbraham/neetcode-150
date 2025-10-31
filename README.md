@@ -23,6 +23,7 @@
 
 1. [Best Time to Buy And Sell Stock](Sliding%20Window/01_buy_and_sell_stock.md)
 2. [Longest Substring Without Repeating Characters](Sliding%20Window/02_longest_substring_without_duplicates.md)
+3. [Longest Repeating Character Replacement](Sliding%20Window/03_longest_repeating_char_replacement.md)
 
 ---
 ### Stack
