@@ -28,6 +28,9 @@
 
 ---
 ### Stack
+1. [Valid Parantheses](Stack/01_valid_parantheses.md)
+2. [Minimum Stack](Stack/02_min_stack.md)
+3. [Evaluate Reverse Polish Notation](Stack/03_reverse_polish_notation.md)
 
 ---
 ### Binary Search
