@@ -31,6 +31,7 @@
 1. [Valid Parantheses](Stack/01_valid_parantheses.md)
 2. [Minimum Stack](Stack/02_min_stack.md)
 3. [Evaluate Reverse Polish Notation](Stack/03_reverse_polish_notation.md)
+4. [Daily Temperatures](Stack/04_daily_temperatures.md)
 
 ---
 ### Binary Search
