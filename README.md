@@ -32,9 +32,12 @@
 2. [Minimum Stack](Stack/02_min_stack.md)
 3. [Evaluate Reverse Polish Notation](Stack/03_reverse_polish_notation.md)
 4. [Daily Temperatures](Stack/04_daily_temperatures.md)
+5. [Car Fleet](Stack/05_car_fleet.md)
 
 ---
 ### Binary Search
+1. [Binary Search](Binary%20Search/01_binary_search.md)
+2. [Search a 2D Matrix](Binary%20Search/02_search_2d_matrix.md)
 
 ---
 ### Linked List
