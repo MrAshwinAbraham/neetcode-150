@@ -38,6 +38,9 @@
 ### Binary Search
 1. [Binary Search](Binary%20Search/01_binary_search.md)
 2. [Search a 2D Matrix](Binary%20Search/02_search_2d_matrix.md)
+3. [Koko Eating Bananas](Binary%20Search/03_koko_eating_bananas.md)
+4. [Find Minimum in Rotated Sorted Array](Binary%20Search/04_minimum_rotated_sorted_array.md)
+5. [Search in Rotated Sorted Array](Binary%20Search/05_search_rotated_sorted_array.md)
 
 ---
 ### Linked List
