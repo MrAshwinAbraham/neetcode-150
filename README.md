@@ -41,9 +41,15 @@
 3. [Koko Eating Bananas](Binary%20Search/03_koko_eating_bananas.md)
 4. [Find Minimum in Rotated Sorted Array](Binary%20Search/04_minimum_rotated_sorted_array.md)
 5. [Search in Rotated Sorted Array](Binary%20Search/05_search_rotated_sorted_array.md)
+6. [Time Based Key-Value Store](Binary%20Search/06_time_based_key_value.md)
 
 ---
 ### Linked List
+1. [Reverse Linked List](Linked%20List/01_reverse_linked_list.md)
+2. [Merge Two Sorted Linked List](Linked%20List/02_merge_two_sorted_lists.md)
+3. [Linked List Cycle Detection](Linked%20List/03_linked_list_cycle.md)
+4. [Reorder Linked List](Linked%20List/04_reorder_linked_list.md)
+5. [Remove Node From End of Linked List](Linked%20List/05_remove_from_linked_list_end.md)
 
 ---
 ### Trees
