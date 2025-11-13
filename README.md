@@ -50,6 +50,8 @@
 3. [Linked List Cycle Detection](Linked%20List/03_linked_list_cycle.md)
 4. [Reorder Linked List](Linked%20List/04_reorder_linked_list.md)
 5. [Remove Node From End of Linked List](Linked%20List/05_remove_from_linked_list_end.md)
+6. [Copy Linked List with Random Pointer](Linked%20List/06_copy_with_random_pointer.md)
+7. [Add Two Numbers](Linked%20List/07_add_two_numbers.md)
 
 ---
 ### Trees
