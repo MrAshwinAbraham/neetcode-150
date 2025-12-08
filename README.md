@@ -52,6 +52,8 @@
 5. [Remove Node From End of Linked List](Linked%20List/05_remove_from_linked_list_end.md)
 6. [Copy Linked List with Random Pointer](Linked%20List/06_copy_with_random_pointer.md)
 7. [Add Two Numbers](Linked%20List/07_add_two_numbers.md)
+8. [Find the Duplicate Number](Linked%20List/08_find_duplicate_number.md)
+9. [LRU Cache](Linked%20List/09_lru_cache.md)
 
 ---
 ### Trees
