@@ -57,5 +57,11 @@
 
 ---
 ### Trees
+1. [Invert Binary Tree](Trees/01_invert_binary_tree.md)
+2. [Maximum Depth of Binary Tree](Trees/02_maximum_depth_binary_tree.md)
+3. [Diameter of Binary Tree](Trees/03_diameter_binary_tree.md)
+4. [Balanced Binary Tree](Trees/04_balanced_binary_tree.md)
+5. [Same Binary Tree](Trees/05_same_binary_tree.md)
+6. [Subtree of Another Tree](Trees/06_subtree_another_tree.md)
 
 ---
